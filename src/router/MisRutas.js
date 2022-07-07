@@ -1,9 +1,9 @@
 import React from 'react'
 import { 
-    BrowserRouter, 
-    Routes, 
-    Route, 
-    Navigate} from 'react-router-dom'
+  BrowserRouter, 
+  Routes, 
+  Route, 
+  Navigate} from 'react-router-dom'
 import { Contacto } from '../components/Contacto'
 import { Curriculum } from '../components/Curriculum'
 import { Inicio } from '../components/Inicio'
